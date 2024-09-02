@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css';
-import New1 from './new/New1';
-
+// import New1 from './new/New1';
+import NoTag from './new2/NoTag'
 function App() {
   return (
     <>
-      <h1></h1>
-      <New1></New1>
+      <NoTag></NoTag>
+      {/* <New1></New1> */}
     </>
   );
 }
